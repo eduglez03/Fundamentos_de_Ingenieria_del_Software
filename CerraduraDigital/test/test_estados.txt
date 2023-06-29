@@ -1,0 +1,44 @@
+
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Introduce tu email -> Introduce tu contraseña -> 
+------------ Portal del Cliente ------------
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> Tus cerraduras:
+casa: CLOSE
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> Esa selección no está contemplada entre las posibilidades
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> 
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Saliendo del portal...
+Guardando datos...

@@ -1,0 +1,25 @@
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> ¿Qué tipo de usuario será?
+1) Cliente
+2) Propietario
+
+Selección -> Esa selección no está contemplada entre las posibilidades
+¿Qué tipo de usuario será?
+1) Cliente
+2) Propietario
+
+Selección -> Esa selección no está contemplada entre las posibilidades
+¿Qué tipo de usuario será?
+1) Cliente
+2) Propietario
+
+Selección -> Esa selección no está contemplada entre las posibilidades
+¿Qué tipo de usuario será?
+1) Cliente
+2) Propietario

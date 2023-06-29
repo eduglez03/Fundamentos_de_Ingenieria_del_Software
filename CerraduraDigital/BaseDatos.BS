@@ -1,0 +1,6 @@
+admin:A:admin:
+viejo@gmail.com:C:1234:
+pepe@gmail.com:P:1234:(casa)(patio)(salon)
+manolo@gmail.com:C:manolo:(casa)
+nuevo@gmail.com:C:nuevo:(casa)
+prop:P:prop:

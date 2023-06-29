@@ -1,0 +1,96 @@
+
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Introduce tu email -> Introduce tu contraseña -> 
+------------ Portal del Propietario ------------
+
+¿Qué quieres hacer?
+1) Añadir cerradura
+2) Añadir permisos a cliente
+3) Listar cerraduras en propiedad
+0) Salir del portal de propietario
+F
+Selección -> 
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Introduce tu email -> Introduce tu contraseña -> 
+------------ Portal del Cliente ------------
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> ¿Cómo se llama la cerradura que quieres abrir? -> ESTADO CERRADURA=1
+Se ha abierto con exito
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> Tus cerraduras:
+casa: OPEN
+
+¿Qué quieres hacer?
+1) Abrir cerradura
+2) Cerrar cerradura
+3) Mostar estado cerraduras
+0) Salir del portal de cliente
+
+Selección -> 
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Introduce tu email -> Introduce tu contraseña -> 
+------------ Portal del Propietario ------------
+
+¿Qué quieres hacer?
+1) Añadir cerradura
+2) Añadir permisos a cliente
+3) Listar cerraduras en propiedad
+0) Salir del portal de propietario
+
+Selección -> Nombre de la nueva cerradura: 
+¿Qué quieres hacer?
+1) Añadir cerradura
+2) Añadir permisos a cliente
+3) Listar cerraduras en propiedad
+0) Salir del portal de propietario
+
+Selección -> Tus cerraduras:
+casa: (6)
+despacho;(): 
+
+¿Qué quieres hacer?
+1) Añadir cerradura
+2) Añadir permisos a cliente
+3) Listar cerraduras en propiedad
+0) Salir del portal de propietario
+
+Selección -> 
+¡Bienvenido al portal de Cerraduras Digitales!
+
+¿Qué deseas hacer?
+1) Registrarse
+2) Iniciar sesión
+0) Salir del servicio
+
+Selección -> Saliendo del portal...
+Guardando datos...
